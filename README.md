@@ -1,2 +1,2 @@
 # ACEs_gambling
-Scripts for 'Associations of adverse childhood experiences with gambling risk categories', Emily Patterson et al.
+Scripts for analyses for manuscript 'Associations of adverse childhood experiences with gambling risk categories', Emily Patterson (South Gloucestershire council) et al. Manuscript in progress.
